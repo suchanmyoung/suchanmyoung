@@ -2,25 +2,17 @@
 
 
 <div align = "center">
-
-<br/>
 <h3> 🥳</h3><br/>
 안녕하세요 명수찬입니다.<br/>
 문예창작학과를 전공하여 현재 0년차 개발자입니다.<br/>
 Clean Code와 TDD를 지향합니다.
 
+<br/>
 
-<br/><br/>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com) -->
-<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123) -->
- 
   
 ﹏﹏﹏﹏﹏﹏﹏
 
-<br/><br/>
+<br/>
  
 <h3>💻 Tech Stack 💻</h3>
  
