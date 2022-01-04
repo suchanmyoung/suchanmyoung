@@ -17,7 +17,6 @@ Clean Code와 TDD를 지향합니다.
 <h3>💻 Tech Stack 💻</h3>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchanmyoung)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchanmyoung&show_icons=true&theme=radical)
   
 <br/>
 
