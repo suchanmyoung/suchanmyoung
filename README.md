@@ -15,7 +15,9 @@ Clean Code와 TDD를 지향합니다.
 <br/>
  
 <h3>💻 Tech Stack 💻</h3>
- 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aud248@naver.com&show_icons=true&theme=radical)
+  
 <br/>
 
 
