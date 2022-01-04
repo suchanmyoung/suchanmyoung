@@ -16,7 +16,6 @@ Clean Code와 TDD를 지향합니다.
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchanmyoung&show_icons=true&theme=radical)
   
   <h3>💻 Tech Stack 💻</h3>
-<br/>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
