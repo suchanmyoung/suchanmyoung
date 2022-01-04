@@ -12,7 +12,6 @@ Clean Code와 TDD를 지향합니다.
   
 ﹏﹏﹏﹏﹏﹏﹏
 
-<br/>
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchanmyoung&show_icons=true&theme=radical)
   
