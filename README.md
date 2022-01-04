@@ -36,9 +36,3 @@ Clean Code와 TDD를 지향합니다.
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
-<div align = "center">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchanmyoung)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
