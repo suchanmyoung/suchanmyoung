@@ -4,7 +4,7 @@
 <div align = "center">
 <h3> 🥳</h3><br/>
 안녕하세요 0년차 개발자 명수찬입니다.<br/>
-Clean Code와 TDD를 공부하고 있습니다.
+Clean Code를 작성하기 위해 노력하고 있습니다.
 
 <br/>
 
